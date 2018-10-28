@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Network01</string>
+    <string name="danh_sach_user">Danh sach User</string>
+    <string name="userid">UserId</string>
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+</resources>
